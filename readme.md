@@ -5,7 +5,7 @@ Those are the files you need to make vial work on your Bastard Keyboard.
 ### How to use
 
 - download vial: https://get.vial.today/
-- flash the hex file found in the release that matches your keyboard
+- flash the hex file found in the release section that matches your keyboard
 - sideload the json in vial and configure your keyboard !
 
 ### Advanced configuration
